@@ -1,0 +1,1 @@
+# exercicios-MySQL-generation-blocoII-InnerJoin
